@@ -24,10 +24,9 @@
 
 ### Stats GuitHub
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoschigamer&show_icons=true&theme=radical)
+<p><img src="https://github-readme-stats.vercel.app/api?username=Yoschigamer&amp;show_icons=true&amp;theme=radical" alt="Yoschigamer&#39;s GitHub stats"></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoschigamer&amp;layout=compact" alt="Top Langs"></a></p>
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yoschigamer" alt="Yoschigamer&#39;s wakatime stats"></a></p>
 
