@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Killian</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 🔭 I’m currently working on [personnal project](https://yoschigamer.github.io/terminal_en_HTML/)
+- 🔭 I’m currently working on [personnal project](https://yoschigamer.github.io/terminal_en_HTML/) 
+
+- exemple project => [personnal project](https://yoschigamer.github.io/popup/)
 
 - 🌱 I’m currently learning **JavaScript**
 
