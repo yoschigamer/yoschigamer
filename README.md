@@ -29,5 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://wakatime.com/@b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a"><img src="https://wakatime.com/badge/user/b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a.svg" alt="Total time coded since Dec 14 2021" /></a>
-<img src="https://badges.pufler.dev/visits/Yoschigamer"
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
