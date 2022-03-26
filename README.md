@@ -25,7 +25,7 @@
 ### Stats GuitHub
 ---
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/a49bd69057381c90dff8543217d33e4e6d56cf7ee325d3745599574a3e37baef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d74686f6d6173333730267468656d653d6461726b" alt="Personal statistics" data-canonical-src="https://github-readme-stats.vercel.app/api?username=thomas370&theme=react&show_icons=true" style="max-width: 100%;"></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/a49bd69057381c90dff8543217d33e4e6d56cf7ee325d3745599574a3e37baef/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d74686f6d6173333730267468656d653d6461726b" alt="Personal statistics" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Yoschigamer&amp;show_icons=true&amp;theme=radical" alt="Anurag&#39;s GitHub stats" style="max-width: 100%;"></a>
 </p>
 
 
@@ -36,4 +36,4 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thomas370&amp;theme=react" alt="thomas's wakatime stats">
 </p>
 <a href="https://wakatime.com/@b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a"><img src="https://wakatime.com/badge/user/b1c7d523-d82f-4c8b-b5bd-fcb4727ea04a.svg" alt="Total time coded since Dec 14 2021" /></a>
-<img src="https://badges.pufler.dev/visits/thomas370"
+<img src="https://badges.pufler.dev/visits/Yoschigamer"
