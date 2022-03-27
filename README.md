@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I like carbonara pasta**
 
 <section style="display: flex; flex-direction: column; align-items: center;">
-    <h3 align="left">You can follow me in:</h3>
+    <h3 align="center">You can follow me in:</h3>
     <div style="width: 450px;">
         <p align="left"><a href="https://codepen.io/killian schneider" target="blank"><img id="res" style="width: 100px; height: 100px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="killian schneider" height="30" width="40" /></a>
             <a href="https://fb.com/killian schneider" target="blank"><img id="res" style="width: 100px; height: 100px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="killian schneider" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 </section>
 
 <section style="display: flex; flex-direction: column; align-items: center;">
-    <p align="left"> 
+    <p align="center"> 
         <div style="display: flex; flex-direction: column; flex-wrap: wrap; align-items: center; margin-bottom: 100px;">
             <h3 align="left" style="font-size: 30px; color: white;">Languages used:</h3>
             <div style="background-color: transparent; width: 400px; border-radius: 20px; height: 150px; border: solid 5px rgb(255, 255, 255); display: flex; justify-content: center; align-items: center;  box-shadow: inset 0 0 50px #fff, inset 20px 0 80px #f0f, inset -20px 0 80px #0ff, inset 20px 0 300px #f0f, inset -20px 0 300px #0ff, 0 0 50px #fff, -10px 0 80px #f0f, 10px 0 80px #0ff;">
