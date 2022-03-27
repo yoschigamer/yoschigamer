@@ -13,30 +13,91 @@
 
 - ⚡ Fun fact **I like carbonara pasta**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://codepen.io/killian schneider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="killian schneider" height="30" width="40" /></a>
-<a href="https://fb.com/killian schneider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="killian schneider" height="30" width="40" /></a>
-<a href="https://instagram.com/k.scdr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.scdr" height="30" width="40" /></a>
-<a href="https://discord.gg/(っ◔◡◔)っ ♥ 𝕪𝕠𝕤𝕔𝕙𝕚𝕘𝕒𝕞𝕖𝕣 ♥#3723" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(っ◔◡◔)っ ♥ 𝕪𝕠𝕤𝕔𝕙𝕚𝕘𝕒𝕞𝕖𝕣 ♥#3723" height="30" width="40" /></a>
-</p>
+<section style="display: flex; flex-direction: column; align-items: center;">
+    <h3 align="left">You can follow me in:</h3>
+    <div style="width: 450px;">
+        <p align="left"><a href="https://codepen.io/killian schneider" target="blank"><img id="res" style="width: 100px; height: 100px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="killian schneider" height="30" width="40" /></a>
+            <a href="https://fb.com/killian schneider" target="blank"><img id="res" style="width: 100px; height: 100px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="killian schneider" height="30" width="40" /></a>
+            <a href="https://instagram.com/k.scdr" target="blank"><img id="res" style=" width: 100px; height: 100px;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.scdr" height="30" width="40" /></a>
+            <a href="https://discord.gg/(っ◔◡◔)っ ♥ 𝕪𝕠𝕤𝕔𝕙𝕚𝕘𝕒𝕞𝕖𝕣 ♥#3723" target="blank"><img id="res" style="width: 100px; height: 100px;"align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="(っ◔◡◔)っ ♥ 𝕪𝕠𝕤𝕔𝕙𝕚𝕘𝕒𝕞𝕖𝕣 ♥#3723" height="30" width="40" /></a>
+            </p>
+    </div>
+</section>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a 
+<section style="display: flex; flex-direction: column; align-items: center;">
+    <p align="left"> 
+        <div style="display: flex; flex-direction: column; flex-wrap: wrap; align-items: center; margin-bottom: 100px;">
+            <h3 align="left" style="font-size: 30px; color: white;">Languages used:</h3>
+            <div style="background-color: transparent; width: 400px; border-radius: 20px; height: 150px; border: solid 5px rgb(255, 255, 255); display: flex; justify-content: center; align-items: center;  box-shadow: inset 0 0 50px #fff, inset 20px 0 80px #f0f, inset -20px 0 80px #0ff, inset 20px 0 300px #f0f, inset -20px 0 300px #0ff, 0 0 50px #fff, -10px 0 80px #f0f, 10px 0 80px #0ff;">
+                <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img id="pr" style="width: 100px; height: 100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+                <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img id="pr" style="width: 100px; height: 100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img id="pr" style="width: 100px; height: 100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+            </div>
+        </div>
+        <div>
+    
+        </div>
+        <div style="display: flex; align-items: center; justify-content: center;">
+            <div id="test"></div>
+            <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img id="sub" style="width: 50px; height: 50px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+            <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img id="sub" style="width: 50px; height: 50px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+            <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img id="sub" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img id="sub" style="width: 50px; height: 50px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+            <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img id="sub" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
+            <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img id="sub" style="width: 50px; height: 50px;" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+            <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img id="sub" style="width: 50px; height: 50px;"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
+            <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img id="sub" style="width: 50px; height: 50px;" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>         
+            <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img id="sub"style="width: 50px; height: 50px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+            <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img id="sub" style="width: 50px; height: 50px;" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a>
+        </div>
+    </p>
+    <style>
+        #test {
+            width: 600px;
+            position: absolute;
+            border-radius: 100px;
+            top: 560px;
+            height: 100px;
+            content: "";
+            z-index: -1;
+            filter: blur(15px);
+            background: linear-gradient(
+            to left,
+            #ff5770,
+            #e4428d,
+            #c42da8,
+            #9e16c3,
+            #6501de,
+            #9e16c3,
+            #c42da8,
+            #e4428d,
+            #ff5770
+            );
+            background-size: 200% 200%;
+            animation: animateGlow 1.25s linear infinite;
+        }
+        #pr {transition: all 0.4s ease;}
+        #pr:hover{transform:scale(1.4);margin: 10px;}
 
-href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img 
-href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a
+        #res {transition: all 0.3s ease;}
+        #res:hover {transform: translateY(-20);}
 
-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a 
+        #sub {
+            transition: all 0.3s ease;
+            margin: 5px;
+        }
+        #sub:hover{transform:translateY(-10px);}
 
-href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a 
-
-href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
+        @keyframes animateGlow {
+            0% {
+                background-position: 0% 50%;
+            }
+            100% {
+                background-position: 200% 50%;
+            }
+        }
+    </style>
+</section>
 ### Stats GuitHub
 ---
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yoschigamer&amp;show_icons=true&amp;theme=radical" alt="Yoschigamer&#39;s GitHub stats"></p>
