@@ -34,5 +34,5 @@
 ---
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yoschigamer&amp;show_icons=true&amp;theme=radical" alt="Yoschigamer&#39;s GitHub stats"></p>
 
-<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yoschigamer/c1b1f0ba-a591-4749-9023-a63ee098a978.svg" /></a></p>
+<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yoschigamer/c6803187-279f-4ed4-89f2-440c51319000.svg" /></a></p>
 
