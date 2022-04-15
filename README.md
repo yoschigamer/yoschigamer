@@ -30,8 +30,7 @@
                 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img id="pr" style="width: 100px; height: 100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img id="pr" style="width: 100px; height: 100px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </div>
-### Stats GuitHub
----
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Yoschigamer&amp;show_icons=true&amp;theme=radical" alt="Yoschigamer&#39;s GitHub stats"></p>
 
 <p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yoschigamer/c6803187-279f-4ed4-89f2-440c51319000.svg" /></a></p>
