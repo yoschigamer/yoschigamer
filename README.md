@@ -36,4 +36,4 @@
 
 <p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@Yoschigamer/eb926587-1cfa-4139-ad0e-2b6b5a12fd18.png" /></a></p>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoschigamer&amp;layout=compact" alt="Top Langs"></a></p>
+<p align="center"><figure><embed src="https://wakatime.com/share/@Yoschigamer/0748bc58-b238-433f-bb88-6e47c60619cf.svg"></embed></figure></p>
