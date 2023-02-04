@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [personnal project](https://yoschigamer.github.io/terminal_en_HTML/) 
 
-- 🦾 exemple project => [personnal project](https://yoschigamer.github.io/popup/)
+- 🦾 exemple project => [personnal project](https://github.com/yoschigamer/youtubeRework)
 
 - 🌱 I’m currently learning **JavaScript**
 
